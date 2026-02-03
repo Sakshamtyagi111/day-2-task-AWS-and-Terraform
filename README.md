@@ -75,4 +75,6 @@ Deploy:
 Bash
 terraform apply --auto-approve
 Verify: Click the URL generated in the output to see the "Hello World" page, or SSH into the instance using the newkey2407 key pair.
+image for referance :- <img width="1892" height="863" alt="image" src="https://github.com/user-attachments/assets/8d8156cb-ab47-40f5-b95f-746a6afd710a" />
+
 
